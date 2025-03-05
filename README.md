@@ -16,7 +16,7 @@ This project predicts stock prices using machine learning with **Random Forest R
 - The model uses Yahoo Finance stock data (Open, High, Low, Close, Volume).
 - **Feature Engineering**: It calculates two Simple Moving Averages (SMA_10 and SMA_50) as features.
 - **Model**: The model uses a Random Forest Regressor to predict future stock prices.
-- **Evaluation**: The model is evaluated using Mean Absolute Error (MAE) and Mean Squared Error (MSE).
+- **Evaluation**: The model is evaluated using Mean Absolute Error (MAE), Mean Squared Error (MSE) and R² Score.
 
 ## License
 MIT License
