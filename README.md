@@ -12,7 +12,6 @@ This project predicts stock prices using machine learning with **Random Forest R
   - openpyxl (for reading Excel files)
 
 # Model Overview
-
 - The model uses Yahoo Finance stock data (Open, High, Low, Close, Volume).
 - **Feature Engineering**: It calculates two Simple Moving Averages (SMA_10 and SMA_50) as features.
 - **Model**: The model uses a Random Forest Regressor to predict future stock prices.
